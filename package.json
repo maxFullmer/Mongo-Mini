@@ -5,9 +5,9 @@
   "main": "server/index.js",
   "dependencies": {
     "axios": "^0.19.0",
-    "dotenv": "^8.0.0",
+    "dotenv": "^8.1.0",
     "express": "^4.17.1",
-    "mongoose": "^5.5.11"
+    "mongoose": "^5.6.10"
   },
   "scripts": {
     "start": "nodemon server/index.js"
